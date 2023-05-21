@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\bin\Debug\net6.0\pymant.exe
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\bin\Debug\net6.0\pymant.deps.json
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\bin\Debug\net6.0\pymant.runtimeconfig.json
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\bin\Debug\net6.0\pymant.dll
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\bin\Debug\net6.0\pymant.pdb
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\obj\Debug\net6.0\pymant.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\obj\Debug\net6.0\pymant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\obj\Debug\net6.0\pymant.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\obj\Debug\net6.0\pymant.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\obj\Debug\net6.0\pymant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\obj\Debug\net6.0\pymant.dll
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\obj\Debug\net6.0\refint\pymant.dll
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\obj\Debug\net6.0\pymant.pdb
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\obj\Debug\net6.0\pymant.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#learing\pymant\pymant\obj\Debug\net6.0\ref\pymant.dll

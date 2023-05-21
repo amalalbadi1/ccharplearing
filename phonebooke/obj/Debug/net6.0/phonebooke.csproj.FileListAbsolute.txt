@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#learing\phonebooke\bin\Debug\net6.0\phonebooke.exe
+C:\Users\Admin\Desktop\c#learing\phonebooke\bin\Debug\net6.0\phonebooke.deps.json
+C:\Users\Admin\Desktop\c#learing\phonebooke\bin\Debug\net6.0\phonebooke.runtimeconfig.json
+C:\Users\Admin\Desktop\c#learing\phonebooke\bin\Debug\net6.0\phonebooke.dll
+C:\Users\Admin\Desktop\c#learing\phonebooke\bin\Debug\net6.0\phonebooke.pdb
+C:\Users\Admin\Desktop\c#learing\phonebooke\obj\Debug\net6.0\phonebooke.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#learing\phonebooke\obj\Debug\net6.0\phonebooke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#learing\phonebooke\obj\Debug\net6.0\phonebooke.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#learing\phonebooke\obj\Debug\net6.0\phonebooke.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#learing\phonebooke\obj\Debug\net6.0\phonebooke.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#learing\phonebooke\obj\Debug\net6.0\phonebooke.dll
+C:\Users\Admin\Desktop\c#learing\phonebooke\obj\Debug\net6.0\refint\phonebooke.dll
+C:\Users\Admin\Desktop\c#learing\phonebooke\obj\Debug\net6.0\phonebooke.pdb
+C:\Users\Admin\Desktop\c#learing\phonebooke\obj\Debug\net6.0\phonebooke.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#learing\phonebooke\obj\Debug\net6.0\ref\phonebooke.dll
