@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#learing\week 3 day3\bin\Debug\net6.0\week 3 day3.exe
+C:\Users\Admin\Desktop\c#learing\week 3 day3\bin\Debug\net6.0\week 3 day3.deps.json
+C:\Users\Admin\Desktop\c#learing\week 3 day3\bin\Debug\net6.0\week 3 day3.runtimeconfig.json
+C:\Users\Admin\Desktop\c#learing\week 3 day3\bin\Debug\net6.0\week 3 day3.dll
+C:\Users\Admin\Desktop\c#learing\week 3 day3\bin\Debug\net6.0\week 3 day3.pdb
+C:\Users\Admin\Desktop\c#learing\week 3 day3\obj\Debug\net6.0\week 3 day3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#learing\week 3 day3\obj\Debug\net6.0\week 3 day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#learing\week 3 day3\obj\Debug\net6.0\week 3 day3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#learing\week 3 day3\obj\Debug\net6.0\week 3 day3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#learing\week 3 day3\obj\Debug\net6.0\week 3 day3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#learing\week 3 day3\obj\Debug\net6.0\week 3 day3.dll
+C:\Users\Admin\Desktop\c#learing\week 3 day3\obj\Debug\net6.0\refint\week 3 day3.dll
+C:\Users\Admin\Desktop\c#learing\week 3 day3\obj\Debug\net6.0\week 3 day3.pdb
+C:\Users\Admin\Desktop\c#learing\week 3 day3\obj\Debug\net6.0\week 3 day3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#learing\week 3 day3\obj\Debug\net6.0\ref\week 3 day3.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\bin\Debug\net6.0\week3 day3 operater overlaod.exe
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\bin\Debug\net6.0\week3 day3 operater overlaod.deps.json
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\bin\Debug\net6.0\week3 day3 operater overlaod.runtimeconfig.json
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\bin\Debug\net6.0\week3 day3 operater overlaod.dll
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\bin\Debug\net6.0\week3 day3 operater overlaod.pdb
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\obj\Debug\net6.0\week3 day3 operater overlaod.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\obj\Debug\net6.0\week3 day3 operater overlaod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\obj\Debug\net6.0\week3 day3 operater overlaod.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\obj\Debug\net6.0\week3 day3 operater overlaod.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\obj\Debug\net6.0\week3 day3 operater overlaod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\obj\Debug\net6.0\week3 day3 operater overlaod.dll
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\obj\Debug\net6.0\refint\week3 day3 operater overlaod.dll
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\obj\Debug\net6.0\week3 day3 operater overlaod.pdb
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\obj\Debug\net6.0\week3 day3 operater overlaod.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#learing\week3 day3 operater overlaod\obj\Debug\net6.0\ref\week3 day3 operater overlaod.dll

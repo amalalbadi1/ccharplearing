@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\bin\Debug\net6.0\week3 day4 event.exe
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\bin\Debug\net6.0\week3 day4 event.deps.json
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\bin\Debug\net6.0\week3 day4 event.runtimeconfig.json
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\bin\Debug\net6.0\week3 day4 event.dll
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\bin\Debug\net6.0\week3 day4 event.pdb
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\obj\Debug\net6.0\week3 day4 event.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\obj\Debug\net6.0\week3 day4 event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\obj\Debug\net6.0\week3 day4 event.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\obj\Debug\net6.0\week3 day4 event.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\obj\Debug\net6.0\week3 day4 event.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\obj\Debug\net6.0\week3 day4 event.dll
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\obj\Debug\net6.0\refint\week3 day4 event.dll
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\obj\Debug\net6.0\week3 day4 event.pdb
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\obj\Debug\net6.0\week3 day4 event.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#learing\week3 day4 event\obj\Debug\net6.0\ref\week3 day4 event.dll

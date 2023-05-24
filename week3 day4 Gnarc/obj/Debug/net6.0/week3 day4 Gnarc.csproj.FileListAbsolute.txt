@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\bin\Debug\net6.0\week3 day4 Gnarc.exe
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\bin\Debug\net6.0\week3 day4 Gnarc.deps.json
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\bin\Debug\net6.0\week3 day4 Gnarc.runtimeconfig.json
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\bin\Debug\net6.0\week3 day4 Gnarc.dll
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\bin\Debug\net6.0\week3 day4 Gnarc.pdb
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\obj\Debug\net6.0\week3 day4 Gnarc.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\obj\Debug\net6.0\week3 day4 Gnarc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\obj\Debug\net6.0\week3 day4 Gnarc.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\obj\Debug\net6.0\week3 day4 Gnarc.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\obj\Debug\net6.0\week3 day4 Gnarc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\obj\Debug\net6.0\week3 day4 Gnarc.dll
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\obj\Debug\net6.0\refint\week3 day4 Gnarc.dll
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\obj\Debug\net6.0\week3 day4 Gnarc.pdb
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\obj\Debug\net6.0\week3 day4 Gnarc.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#learing\week3 day4 Gnarc\obj\Debug\net6.0\ref\week3 day4 Gnarc.dll
